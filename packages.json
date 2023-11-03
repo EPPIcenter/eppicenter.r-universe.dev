@@ -2,5 +2,9 @@
     {
         "package": "moire",
         "url": "https://github.com/eppicenter/moire"
+    },
+    {
+        "package": "dcifer",
+        "url": "https://github.com/eppicenter/dcifer"
     }
 ]
