@@ -6,5 +6,9 @@
     {
         "package": "dcifer",
         "url": "https://github.com/eppicenter/dcifer"
+    },
+    {
+        "package": "flexfit",
+        "url": "https://github.com/eppicenter/flexfit"
     }
 ]
